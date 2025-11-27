@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+✨ Creating bugs since 2023<br>
+📚 I'm currently learning Python automation & web development<br>
+🎯 Goals: Become a full-stack developer and build efficient business solutions<br>
+🎲 Fun fact: I once spent hours debugging only to find out I mixed up absolute and relative paths
+</p>
 
 ###
 
@@ -29,5 +34,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
-
-###
